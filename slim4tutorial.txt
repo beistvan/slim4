@@ -1,0 +1,9 @@
+url:
+https://odan.github.io/2019/11/05/slim4-tutorial.html
+
+{
+    "username": "john.doe",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com"
+}
